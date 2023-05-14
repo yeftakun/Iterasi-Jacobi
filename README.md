@@ -4,14 +4,17 @@ This program solves a system of linear equations using the Iterative Jacobi meth
 
 ## How to Run
 
-1. Make sure you have a C++ compiler installed on your system.
-2. Clone or download the repository to your local machine.
-3. Open a terminal or command prompt and navigate to the directory containing the downloaded files.
-4. Compile the program by executing the following command:
-5. Run the program by executing the following command:
-6. Follow the on-screen instructions to enter the augmented matrix values, initial guesses, and tolerance limit.
-7. The program will display the solution to the system of linear equations and the number of iterations performed.
+1. Pastikan Anda memiliki kompiler C++ terpasang di sistem Anda.
+2. Klona atau unduh repositori ke mesin lokal Anda.
+3. Buka terminal atau command prompt dan arahkan ke direktori yang berisi file yang diunduh.
+4. Kompilasi program dengan menjalankan perintah berikut:
+5. Jalankan program dengan menjalankan perintah berikut:
+6. Ikuti petunjuk di layar untuk memasukkan nilai matriks augmented, tebakan awal, dan batas toleransi.
+7. Program akan menampilkan solusi dari sistem persamaan linear dan jumlah iterasi yang dilakukan.
+
 
 ## Credits
 
 This program was created by ChatGPT, an OpenAI language model.
+
+[![ChatGPT](https://img.shields.io/badge/Powered%20by-ChatGPT-9cf)](https://chat.openai.com/)
